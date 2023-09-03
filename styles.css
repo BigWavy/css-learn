@@ -1,0 +1,21 @@
+/* img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 2px solid green;
+} */
+.myimage1{
+    height: 150px;
+    width: 100px;
+    border-radius: 20px;
+}
+.myimage2{
+    height: 300px;
+    width: 250px;
+
+}
+.myimage3{
+    height: 150px;
+    width: 100px;
+    border-radius: 50%;
+}
